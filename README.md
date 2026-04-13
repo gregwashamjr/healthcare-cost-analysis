@@ -63,7 +63,7 @@ The dataset is a synthetic healthcare dataset designed for analytical purposes.
 [View on Tableau Public](https://public.tableau.com/app/profile/greg.washam/viz/HosptialPayerEncounterAnalysis/Dashboard1#1)
 
 ## 📸 Dashboard Preview
-![Dashboard](https://github.com/gregwashamjr/healthcare-cost-analysis/blob/main/Images/Dashboard.png)
+![Dashboard]("C:\Users\drgre\Documents\portfolios\healthcare-cost-analysis\Images\Dashboard.png")
 
 ## 🔍 Detailed Insights
 
