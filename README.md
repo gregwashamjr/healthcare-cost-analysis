@@ -33,10 +33,9 @@ This project follows the **Google Data Analytics framework**:
 The dataset includes 10 years of hospital patient encounters, billing and payment information
 
 The analysis focuses on the following key tables:
-
-    - Patients: Contains demographic and identifying information for each patient
-    - Encounters: Includes details of each hospital visit, such as encounter type, total cost, and payer coverage
-    - Payers: Provides information on the insurance providers responsible for covering healthcare costs
+- Patients: Contains demographic and identifying information for each patient
+- Encounters: Includes details of each hospital visit, such as encounter type, total cost, and payer coverage
+- Payers: Provides information on the insurance providers responsible for covering healthcare costs
 
 Key variables: 
     - total billed cost
@@ -49,6 +48,7 @@ The dataset is a synthetic healthcare dataset designed for analytical purposes.
 ---
 
 ## 🧹 Data Cleaning & Preparation
+The dataset used in this project required minimal cleaning, as it was well-structured and analysis-ready. Basic validation steps were performed to ensure data consistency, including handling null values and verifying calculations for cost and coverage fields.
 
 ---
 
@@ -63,7 +63,7 @@ The dataset is a synthetic healthcare dataset designed for analytical purposes.
 [View on Tableau Public](https://public.tableau.com/app/profile/greg.washam/viz/HosptialPayerEncounterAnalysis/Dashboard1#1)
 
 ## 📸 Dashboard Preview
-![Dashboard]("C:\Users\drgre\Documents\portfolios\healthcare-cost-analysis\Images\Dashboard.png")
+![Dashboard Preview](images/dashboard.png)
 
 ## 🔍 Detailed Insights
 
