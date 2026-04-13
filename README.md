@@ -48,6 +48,7 @@ The dataset is a synthetic healthcare dataset designed for analytical purposes.
 ---
 
 ## 🧹 Data Cleaning & Preparation
+The dataset used in this project required minimal cleaning, as it was well-structured and analysis-ready. Basic validation steps were performed to ensure data consistency, including handling null values and verifying calculations for cost and coverage fields.
 
 ---
 
