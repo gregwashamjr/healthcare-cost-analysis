@@ -33,10 +33,9 @@ This project follows the **Google Data Analytics framework**:
 The dataset includes 10 years of hospital patient encounters, billing and payment information
 
 The analysis focuses on the following key tables:
-
-    - Patients: Contains demographic and identifying information for each patient
-    - Encounters: Includes details of each hospital visit, such as encounter type, total cost, and payer coverage
-    - Payers: Provides information on the insurance providers responsible for covering healthcare costs
+- Patients: Contains demographic and identifying information for each patient
+- Encounters: Includes details of each hospital visit, such as encounter type, total cost, and payer coverage
+- Payers: Provides information on the insurance providers responsible for covering healthcare costs
 
 Key variables: 
     - total billed cost
