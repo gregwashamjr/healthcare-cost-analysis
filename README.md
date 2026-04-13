@@ -63,7 +63,7 @@ The dataset used in this project required minimal cleaning, as it was well-struc
 [View on Tableau Public](https://public.tableau.com/app/profile/greg.washam/viz/HosptialPayerEncounterAnalysis/Dashboard1#1)
 
 ## 📸 Dashboard Preview
-![Dashboard]("C:\Users\drgre\Documents\portfolios\healthcare-cost-analysis\Images\Dashboard.png")
+![Dashboard Preview](images/dashboard.png)
 
 ## 🔍 Detailed Insights
 
