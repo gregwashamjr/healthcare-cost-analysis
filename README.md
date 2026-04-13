@@ -4,7 +4,7 @@
 [View on Tableau Public](https://public.tableau.com/app/profile/greg.washam/viz/HosptialPayerEncounterAnalysis/Dashboard1#1)
 
 ## 📸 Dashboard Preview
-![Dashboard]("C:\Users\drgre\Documents\portfolios\healthcare-cost-analysis\Images\Dashboard.png")
+![Dashboard]"C:\Users\drgre\Documents\portfolios\healthcare-cost-analysis\Images\Dashboard.png"
 
 ## 🧠 Business Problem
 Healthcare costs vary widely depending on payer and encounter type. This project analyzes reimbursement gaps to identify opportunities to reduce patient burden and improve coverage efficiency.
